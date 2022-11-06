@@ -1,0 +1,9 @@
+{"train_dataset_name" :"dataset_train",
+"train_image_path" :"./input/testData2/train/",
+"train_label_path" : "./input/testData2/train/road_train_json.json",
+"validation_dataset_name" : "dataset_validation",
+"validation_image_path" : "./input/testData2/valid/",
+"validation_label_path" : "./input/testData2/valid/road_validate_json.json",
+"test_dataset_name" : "dataset_test",
+"test_image_path" : "./input/testData2/valid/",
+"test_label_path" : "./input/testData2/valid/road_validate_json.json"}
